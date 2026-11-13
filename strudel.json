@@ -1,29 +1,60 @@
 {
  "_base": "https://raw.githubusercontent.com/justusaugust/strudel-samples/main/",
- "nl_chop": [
-  "nl_chop/morning_f_0.wav",
-  "nl_chop/morning_f_1.wav",
-  "nl_chop/morning_f_2.wav",
-  "nl_chop/morning_f_3.wav",
-  "nl_chop/morning_f_4.wav",
-  "nl_chop/morning_m_0.wav",
-  "nl_chop/morning_m_1.wav",
-  "nl_chop/morning_m_2.wav",
-  "nl_chop/morning_m_3.wav",
-  "nl_chop/morning_m_4.wav",
-  "nl_chop/stanna_f_0.wav",
-  "nl_chop/stanna_f_1.wav",
-  "nl_chop/stanna_m_0.wav",
-  "nl_chop/stanna_m_1.wav"
+ "nl_boom": [
+  "nl_boom/0.wav"
  ],
- "nl_crowd": [
-  "nl_crowd/0.wav"
+ "nl_chant": [
+  "nl_chant/0_dry.wav",
+  "nl_chant/1_wet.wav"
+ ],
+ "nl_chop": [
+  "nl_chop/00_morning_f.wav",
+  "nl_chop/01_morning_f.wav",
+  "nl_chop/02_morning_f.wav",
+  "nl_chop/03_morning_f.wav",
+  "nl_chop/04_morning_f.wav",
+  "nl_chop/05_morning_m.wav",
+  "nl_chop/06_morning_m.wav",
+  "nl_chop/07_morning_m.wav",
+  "nl_chop/08_morning_m.wav",
+  "nl_chop/09_morning_m.wav"
+ ],
+ "nl_darbuka": [
+  "nl_darbuka/0.wav"
  ],
  "nl_downlift": [
   "nl_downlift/0.wav"
  ],
+ "nl_duduk": [
+  "nl_duduk/0_dry.wav",
+  "nl_duduk/1_wet.wav"
+ ],
+ "nl_epic": [
+  "nl_epic/0.wav",
+  "nl_epic/1.wav",
+  "nl_epic/2.wav"
+ ],
+ "nl_fr": [
+  "nl_fr/00_m_ne_laisse_pas_entrer_le_matin.wav",
+  "nl_fr/01_m_reste_encore_un_peu.wav",
+  "nl_fr/02_m_la_nuit_nest_pas_finie.wav",
+  "nl_fr/03_m_encore.wav",
+  "nl_fr/04_f_ne_laisse_pas_entrer_le_matin.wav",
+  "nl_fr/05_f_reste_encore_un_peu.wav",
+  "nl_fr/06_f_la_nuit_nest_pas_finie.wav",
+  "nl_fr/07_f_encore.wav",
+  "nl_fr/08_f_doucement.wav",
+  "nl_fr/09_f_ferme_les_yeux.wav"
+ ],
+ "nl_hit": [
+  "nl_hit/0_morning.wav",
+  "nl_hit/1_matin.wav"
+ ],
  "nl_impact": [
   "nl_impact/0.wav"
+ ],
+ "nl_inhale": [
+  "nl_inhale/0.wav"
  ],
  "nl_morning": [
   "nl_morning/0_f_whisper.wav",
@@ -33,16 +64,18 @@
   "nl_morning/4_m_low.wav",
   "nl_morning/5_m_drawn.wav"
  ],
+ "nl_oud": [
+  "nl_oud/0.wav"
+ ],
+ "nl_pre": [
+  "nl_pre/0_morning.wav",
+  "nl_pre/1_matin.wav"
+ ],
  "nl_riser": [
   "nl_riser/0.wav"
  ],
- "nl_stanna": [
-  "nl_stanna/0_f_whisper.wav",
-  "nl_stanna/1_f_low.wav",
-  "nl_stanna/2_f_drawn.wav",
-  "nl_stanna/3_m_whisper.wav",
-  "nl_stanna/4_m_low.wav",
-  "nl_stanna/5_m_drawn.wav"
+ "nl_sand": [
+  "nl_sand/0.wav"
  ],
  "nl_sung": [
   "nl_sung/0_full.wav",
@@ -57,17 +90,23 @@
   "nl_sungbar/5.wav",
   "nl_sungbar/6.wav"
  ],
+ "nl_swell": [
+  "nl_swell/0.wav"
+ ],
  "nl_tail": [
-  "nl_tail/morning_f_drawn_fm.wav",
-  "nl_tail/morning_f_whisper_fm.wav",
-  "nl_tail/morning_m_drawn_fm.wav",
-  "nl_tail/morning_m_whisper_fm.wav",
-  "nl_tail/stanna_f_drawn_fm.wav",
-  "nl_tail/stanna_f_whisper_fm.wav",
-  "nl_tail/stanna_m_drawn_fm.wav",
-  "nl_tail/stanna_m_whisper_fm.wav"
+  "nl_tail/0_morning_f_drawn_fm.wav",
+  "nl_tail/1_morning_f_whisper_fm.wav",
+  "nl_tail/2_morning_m_drawn_fm.wav",
+  "nl_tail/3_morning_m_whisper_fm.wav",
+  "nl_tail/4_fr_m_matin_fm.wav",
+  "nl_tail/5_fr_f_nuit_fm.wav",
+  "nl_tail/6_fr_f_encore_fm.wav",
+  "nl_tail/7_epic_m_fm.wav"
  ],
  "nl_vinyl": [
   "nl_vinyl/0.wav"
+ ],
+ "nl_wind": [
+  "nl_wind/0.wav"
  ]
 }
