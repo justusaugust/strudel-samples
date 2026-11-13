@@ -17,6 +17,9 @@ samples('github:justusaugust/strudel-samples')
 | `nl_chop` | 10 | single words of the English line: 0-4 female, 5-9 male |
 | `nl_sung` / `nl_sungbar` | 2 / 7 | sung hook, 8 bars (dry, wet) and cut into one-bar phrases |
 | `nl_chant` | 2 | wordless female chant, free time, around C minor / F dorian (dry, wet) |
+| `nl_wail` | 2 | Dune-style female wail, free time, F harmonic minor (dry, wet) |
+| `nl_throat` | 1 | male throat drone on C, 8 bars |
+| `nl_adlib` | 2 | sung wordless ad-libs in F minor, 4 bars each |
 | `nl_duduk` | 2 | duduk melody, free time, F harmonic minor (dry, wet) |
 | `nl_oud`, `nl_darbuka` | 1 each | 4-bar loops at 122 BPM; the oud sits on F |
 | `nl_riser`, `nl_vinyl`, `nl_wind` | 1 each | exactly 4 bars at 122 BPM |
