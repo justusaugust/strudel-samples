@@ -1,0 +1,73 @@
+{
+ "_base": "https://raw.githubusercontent.com/justusaugust/strudel-samples/main/",
+ "nl_chop": [
+  "nl_chop/morning_f_0.wav",
+  "nl_chop/morning_f_1.wav",
+  "nl_chop/morning_f_2.wav",
+  "nl_chop/morning_f_3.wav",
+  "nl_chop/morning_f_4.wav",
+  "nl_chop/morning_m_0.wav",
+  "nl_chop/morning_m_1.wav",
+  "nl_chop/morning_m_2.wav",
+  "nl_chop/morning_m_3.wav",
+  "nl_chop/morning_m_4.wav",
+  "nl_chop/stanna_f_0.wav",
+  "nl_chop/stanna_f_1.wav",
+  "nl_chop/stanna_m_0.wav",
+  "nl_chop/stanna_m_1.wav"
+ ],
+ "nl_crowd": [
+  "nl_crowd/0.wav"
+ ],
+ "nl_downlift": [
+  "nl_downlift/0.wav"
+ ],
+ "nl_impact": [
+  "nl_impact/0.wav"
+ ],
+ "nl_morning": [
+  "nl_morning/0_f_whisper.wav",
+  "nl_morning/1_f_low.wav",
+  "nl_morning/2_f_drawn.wav",
+  "nl_morning/3_m_whisper.wav",
+  "nl_morning/4_m_low.wav",
+  "nl_morning/5_m_drawn.wav"
+ ],
+ "nl_riser": [
+  "nl_riser/0.wav"
+ ],
+ "nl_stanna": [
+  "nl_stanna/0_f_whisper.wav",
+  "nl_stanna/1_f_low.wav",
+  "nl_stanna/2_f_drawn.wav",
+  "nl_stanna/3_m_whisper.wav",
+  "nl_stanna/4_m_low.wav",
+  "nl_stanna/5_m_drawn.wav"
+ ],
+ "nl_sung": [
+  "nl_sung/0_full.wav",
+  "nl_sung/1_full_wet.wav"
+ ],
+ "nl_sungbar": [
+  "nl_sungbar/0.wav",
+  "nl_sungbar/1.wav",
+  "nl_sungbar/2.wav",
+  "nl_sungbar/3.wav",
+  "nl_sungbar/4.wav",
+  "nl_sungbar/5.wav",
+  "nl_sungbar/6.wav"
+ ],
+ "nl_tail": [
+  "nl_tail/morning_f_drawn_fm.wav",
+  "nl_tail/morning_f_whisper_fm.wav",
+  "nl_tail/morning_m_drawn_fm.wav",
+  "nl_tail/morning_m_whisper_fm.wav",
+  "nl_tail/stanna_f_drawn_fm.wav",
+  "nl_tail/stanna_f_whisper_fm.wav",
+  "nl_tail/stanna_m_drawn_fm.wav",
+  "nl_tail/stanna_m_whisper_fm.wav"
+ ],
+ "nl_vinyl": [
+  "nl_vinyl/0.wav"
+ ]
+}
