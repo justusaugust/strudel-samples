@@ -172,6 +172,12 @@
  "nl_vinyl": [
   "nl_vinyl/0.flac"
  ],
+ "nl_vs": [
+  "nl_vs/0.flac",
+  "nl_vs/1.flac",
+  "nl_vs/2.flac",
+  "nl_vs/3.flac"
+ ],
  "nl_wail": [
   "nl_wail/0_dry.flac",
   "nl_wail/1_wet.mp3"
