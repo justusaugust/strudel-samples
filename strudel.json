@@ -51,6 +51,19 @@
   "nl_en/09_f_closer.flac",
   "nl_en/10_f_until_the_light.flac"
  ],
+ "nl_en2": [
+  "nl_en2/00_m_close_your_eyes.flac",
+  "nl_en2/01_m_stay.flac",
+  "nl_en2/02_m_its_not_over.flac",
+  "nl_en2/03_m_one_more_hour.flac",
+  "nl_en2/04_m_listen.flac",
+  "nl_en2/05_m_we_have_time.flac",
+  "nl_en2/06_f_stay.flac",
+  "nl_en2/07_f_not_yet.flac",
+  "nl_en2/08_f_listen.flac",
+  "nl_en2/09_f_closer.flac",
+  "nl_en2/10_f_until_the_light.flac"
+ ],
  "nl_epic": [
   "nl_epic/0.flac",
   "nl_epic/1.flac",
@@ -70,6 +83,18 @@
   "nl_fr/07_f_encore.flac",
   "nl_fr/08_f_doucement.flac",
   "nl_fr/09_f_ferme_les_yeux.flac"
+ ],
+ "nl_fr2": [
+  "nl_fr2/00_m.flac",
+  "nl_fr2/01_m.flac",
+  "nl_fr2/02_m.flac",
+  "nl_fr2/03_m.flac",
+  "nl_fr2/04_f.flac",
+  "nl_fr2/05_f.flac",
+  "nl_fr2/06_f.flac",
+  "nl_fr2/07_f.flac",
+  "nl_fr2/08_f.flac",
+  "nl_fr2/09_f.flac"
  ],
  "nl_frame": [
   "nl_frame/0.flac"
