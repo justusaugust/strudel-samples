@@ -4,6 +4,10 @@
   "nl_adlib/0.flac",
   "nl_adlib/1.flac"
  ],
+ "nl_adlib2": [
+  "nl_adlib2/0.flac",
+  "nl_adlib2/1.flac"
+ ],
  "nl_bell": [
   "nl_bell/0.flac"
  ],
@@ -34,6 +38,9 @@
  ],
  "nl_downlift": [
   "nl_downlift/0.flac"
+ ],
+ "nl_downlift2": [
+  "nl_downlift2/0.flac"
  ],
  "nl_duduk": [
   "nl_duduk/0_dry.mp3"
@@ -121,6 +128,15 @@
  "nl_inhale": [
   "nl_inhale/0.flac"
  ],
+ "nl_inhale2": [
+  "nl_inhale2/0.flac"
+ ],
+ "nl_min": [
+  "nl_min/0.flac",
+  "nl_min/1.flac",
+  "nl_min/2.flac",
+  "nl_min/3.flac"
+ ],
  "nl_moan": [
   "nl_moan/0.flac",
   "nl_moan/1.flac",
@@ -140,6 +156,24 @@
   "nl_morning/3_m_whisper.flac",
   "nl_morning/4_m_low.flac",
   "nl_morning/5_m_drawn.flac"
+ ],
+ "nl_mout": [
+  "nl_mout/0.flac",
+  "nl_mout/1.flac",
+  "nl_mout/2.flac",
+  "nl_mout/3.flac",
+  "nl_mout/4.flac",
+  "nl_mout/5.flac"
+ ],
+ "nl_mpeak": [
+  "nl_mpeak/0.flac",
+  "nl_mpeak/1.flac",
+  "nl_mpeak/2.flac"
+ ],
+ "nl_mpeaktail": [
+  "nl_mpeaktail/0.mp3",
+  "nl_mpeaktail/1.mp3",
+  "nl_mpeaktail/2.mp3"
  ],
  "nl_ney": [
   "nl_ney/0_dry.flac",
@@ -176,8 +210,15 @@
  "nl_sand": [
   "nl_sand/0.flac"
  ],
+ "nl_sb2": [
+  "nl_sb2/0.flac",
+  "nl_sb2/4.flac"
+ ],
  "nl_subdrop": [
   "nl_subdrop/0.flac"
+ ],
+ "nl_subdrop2": [
+  "nl_subdrop2/0.flac"
  ],
  "nl_sung": [
   "nl_sung/0_full.flac",
@@ -220,6 +261,12 @@
   "nl_versefr/2.flac",
   "nl_versefr/3.flac"
  ],
+ "nl_vfr2": [
+  "nl_vfr2/0.flac",
+  "nl_vfr2/1.flac",
+  "nl_vfr2/2.flac",
+  "nl_vfr2/3.flac"
+ ],
  "nl_vinyl": [
   "nl_vinyl/0.flac"
  ],
@@ -228,6 +275,12 @@
   "nl_vs/1.flac",
   "nl_vs/2.flac",
   "nl_vs/3.flac"
+ ],
+ "nl_vs2": [
+  "nl_vs2/0.flac",
+  "nl_vs2/1.flac",
+  "nl_vs2/2.flac",
+  "nl_vs2/3.flac"
  ],
  "nl_wail": [
   "nl_wail/0_dry.flac",
