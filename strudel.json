@@ -672,11 +672,12 @@
   "vt_kit/2_rim.flac",
   "vt_kit/3_snow.flac",
   "vt_kit/4_tick.flac",
-  "vt_kit/5_icicle.flac"
+  "vt_kit/5_icicle.flac",
+  "vt_kit/6_kick_hard.flac"
  ],
  "vt_scene": [
   "vt_scene/0.mp3",
-  "vt_scene/1.mp3"
+  "vt_scene/2.mp3"
  ],
  "vt_rx": [
   "vt_rx/00_lyssna.mp3",
