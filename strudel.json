@@ -673,5 +673,37 @@
   "vt_kit/3_snow.flac",
   "vt_kit/4_tick.flac",
   "vt_kit/5_icicle.flac"
+ ],
+ "vt_scene": [
+  "vt_scene/0.mp3",
+  "vt_scene/1.mp3"
+ ],
+ "vt_rx": [
+  "vt_rx/00_lyssna.mp3",
+  "vt_rx/01_hjarta.mp3",
+  "vt_rx/02_vitt.mp3",
+  "vt_rx/03_tyst.mp3",
+  "vt_rx/04_fryser.mp3",
+  "vt_rx/05_ingenting.mp3",
+  "vt_rx/06_blodet.mp3",
+  "vt_rx/07_sand.mp3",
+  "vt_rx/08_morgon.mp3",
+  "vt_rx/09_vakenan.mp3",
+  "vt_rx/10_snart.mp3"
+ ],
+ "vt_sung": [
+  "vt_sung/0.mp3",
+  "vt_sung/1.mp3",
+  "vt_sung/2.mp3",
+  "vt_sung/3.mp3"
+ ],
+ "vt_sungfar": [
+  "vt_sungfar/0.mp3",
+  "vt_sungfar/1.mp3",
+  "vt_sungfar/2.mp3",
+  "vt_sungfar/3.mp3"
+ ],
+ "vt_static": [
+  "vt_static/0.mp3"
  ]
 }
