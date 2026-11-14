@@ -10,6 +10,9 @@
  "nl_boom": [
   "nl_boom/0.flac"
  ],
+ "nl_boomlong": [
+  "nl_boomlong/0.flac"
+ ],
  "nl_chant": [
   "nl_chant/0_dry.mp3",
   "nl_chant/1_wet.mp3"
@@ -53,6 +56,9 @@
   "nl_epic/1.flac",
   "nl_epic/2.flac"
  ],
+ "nl_exhale": [
+  "nl_exhale/0.flac"
+ ],
  "nl_fr": [
   "nl_fr/00_m_ne_laisse_pas_entrer_le_matin.flac",
   "nl_fr/01_m_reste_encore_un_peu.flac",
@@ -68,6 +74,11 @@
  "nl_frame": [
   "nl_frame/0.flac"
  ],
+ "nl_frw": [
+  "nl_frw/0.flac",
+  "nl_frw/1.flac",
+  "nl_frw/2.flac"
+ ],
  "nl_hit": [
   "nl_hit/0_morning.flac",
   "nl_hit/1_matin.flac"
@@ -79,8 +90,23 @@
  "nl_impact": [
   "nl_impact/0.flac"
  ],
+ "nl_impactlong": [
+  "nl_impactlong/0.flac"
+ ],
  "nl_inhale": [
   "nl_inhale/0.flac"
+ ],
+ "nl_moan": [
+  "nl_moan/0.flac",
+  "nl_moan/1.flac",
+  "nl_moan/2.flac",
+  "nl_moan/3.flac"
+ ],
+ "nl_moantail": [
+  "nl_moantail/0.mp3",
+  "nl_moantail/1.mp3",
+  "nl_moantail/2.mp3",
+  "nl_moantail/3.mp3"
  ],
  "nl_morning": [
   "nl_morning/0_f_whisper.flac",
