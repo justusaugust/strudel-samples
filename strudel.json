@@ -8,6 +8,9 @@
   "nl_adlib2/0.flac",
   "nl_adlib2/1.flac"
  ],
+ "nl_afterglow": [
+  "nl_afterglow/0.flac"
+ ],
  "nl_bell": [
   "nl_bell/0.flac"
  ],
@@ -16,6 +19,9 @@
  ],
  "nl_boomlong": [
   "nl_boomlong/0.flac"
+ ],
+ "nl_breath": [
+  "nl_breath/0.flac"
  ],
  "nl_chant": [
   "nl_chant/0_dry.mp3",
@@ -32,6 +38,9 @@
   "nl_chop/07_morning_m.flac",
   "nl_chop/08_morning_m.flac",
   "nl_chop/09_morning_m.flac"
+ ],
+ "nl_climax": [
+  "nl_climax/0.flac"
  ],
  "nl_darbuka": [
   "nl_darbuka/0.flac"
