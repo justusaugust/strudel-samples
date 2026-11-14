@@ -665,5 +665,13 @@
   "vt_hook/1.flac",
   "vt_hook/2.flac",
   "vt_hook/3.flac"
+ ],
+ "vt_kit": [
+  "vt_kit/0_kick_soft.flac",
+  "vt_kit/1_kick_ice.flac",
+  "vt_kit/2_rim.flac",
+  "vt_kit/3_snow.flac",
+  "vt_kit/4_tick.flac",
+  "vt_kit/5_icicle.flac"
  ]
 }
