@@ -1,123 +1,188 @@
 {
- "_base": "https://raw.githubusercontent.com/justusaugust/strudel-samples/main/",
+ "_base": "https://raw.githubusercontent.com/justusaugust/strudel-samples/v3/",
  "nl_adlib": [
-  "nl_adlib/0.wav",
-  "nl_adlib/1.wav"
+  "nl_adlib/0.flac",
+  "nl_adlib/1.flac"
+ ],
+ "nl_bell": [
+  "nl_bell/0.flac"
  ],
  "nl_boom": [
-  "nl_boom/0.wav"
+  "nl_boom/0.flac"
  ],
  "nl_chant": [
-  "nl_chant/0_dry.wav",
-  "nl_chant/1_wet.wav"
+  "nl_chant/0_dry.mp3",
+  "nl_chant/1_wet.mp3"
  ],
  "nl_chop": [
-  "nl_chop/00_morning_f.wav",
-  "nl_chop/01_morning_f.wav",
-  "nl_chop/02_morning_f.wav",
-  "nl_chop/03_morning_f.wav",
-  "nl_chop/04_morning_f.wav",
-  "nl_chop/05_morning_m.wav",
-  "nl_chop/06_morning_m.wav",
-  "nl_chop/07_morning_m.wav",
-  "nl_chop/08_morning_m.wav",
-  "nl_chop/09_morning_m.wav"
+  "nl_chop/00_morning_f.flac",
+  "nl_chop/01_morning_f.flac",
+  "nl_chop/02_morning_f.flac",
+  "nl_chop/03_morning_f.flac",
+  "nl_chop/04_morning_f.flac",
+  "nl_chop/05_morning_m.flac",
+  "nl_chop/06_morning_m.flac",
+  "nl_chop/07_morning_m.flac",
+  "nl_chop/08_morning_m.flac",
+  "nl_chop/09_morning_m.flac"
  ],
  "nl_darbuka": [
-  "nl_darbuka/0.wav"
+  "nl_darbuka/0.flac"
  ],
  "nl_downlift": [
-  "nl_downlift/0.wav"
+  "nl_downlift/0.flac"
  ],
  "nl_duduk": [
-  "nl_duduk/0_dry.wav",
-  "nl_duduk/1_wet.wav"
+  "nl_duduk/0_dry.mp3"
+ ],
+ "nl_en": [
+  "nl_en/00_m_close_your_eyes.flac",
+  "nl_en/01_m_stay.flac",
+  "nl_en/02_m_its_not_over.flac",
+  "nl_en/03_m_one_more_hour.flac",
+  "nl_en/04_m_listen.flac",
+  "nl_en/05_m_we_have_time.flac",
+  "nl_en/06_f_stay.flac",
+  "nl_en/07_f_not_yet.flac",
+  "nl_en/08_f_listen.flac",
+  "nl_en/09_f_closer.flac",
+  "nl_en/10_f_until_the_light.flac"
  ],
  "nl_epic": [
-  "nl_epic/0.wav",
-  "nl_epic/1.wav",
-  "nl_epic/2.wav"
+  "nl_epic/0.flac",
+  "nl_epic/1.flac",
+  "nl_epic/2.flac"
  ],
  "nl_fr": [
-  "nl_fr/00_m_ne_laisse_pas_entrer_le_matin.wav",
-  "nl_fr/01_m_reste_encore_un_peu.wav",
-  "nl_fr/02_m_la_nuit_nest_pas_finie.wav",
-  "nl_fr/03_m_encore.wav",
-  "nl_fr/04_f_ne_laisse_pas_entrer_le_matin.wav",
-  "nl_fr/05_f_reste_encore_un_peu.wav",
-  "nl_fr/06_f_la_nuit_nest_pas_finie.wav",
-  "nl_fr/07_f_encore.wav",
-  "nl_fr/08_f_doucement.wav",
-  "nl_fr/09_f_ferme_les_yeux.wav"
+  "nl_fr/00_m_ne_laisse_pas_entrer_le_matin.flac",
+  "nl_fr/01_m_reste_encore_un_peu.flac",
+  "nl_fr/02_m_la_nuit_nest_pas_finie.flac",
+  "nl_fr/03_m_encore.flac",
+  "nl_fr/04_f_ne_laisse_pas_entrer_le_matin.flac",
+  "nl_fr/05_f_reste_encore_un_peu.flac",
+  "nl_fr/06_f_la_nuit_nest_pas_finie.flac",
+  "nl_fr/07_f_encore.flac",
+  "nl_fr/08_f_doucement.flac",
+  "nl_fr/09_f_ferme_les_yeux.flac"
+ ],
+ "nl_frame": [
+  "nl_frame/0.flac"
  ],
  "nl_hit": [
-  "nl_hit/0_morning.wav",
-  "nl_hit/1_matin.wav"
+  "nl_hit/0_morning.flac",
+  "nl_hit/1_matin.flac"
+ ],
+ "nl_hum": [
+  "nl_hum/0.flac",
+  "nl_hum/1.flac"
  ],
  "nl_impact": [
-  "nl_impact/0.wav"
+  "nl_impact/0.flac"
  ],
  "nl_inhale": [
-  "nl_inhale/0.wav"
+  "nl_inhale/0.flac"
  ],
  "nl_morning": [
-  "nl_morning/0_f_whisper.wav",
-  "nl_morning/1_f_low.wav",
-  "nl_morning/2_f_drawn.wav",
-  "nl_morning/3_m_whisper.wav",
-  "nl_morning/4_m_low.wav",
-  "nl_morning/5_m_drawn.wav"
+  "nl_morning/0_f_whisper.flac",
+  "nl_morning/1_f_low.flac",
+  "nl_morning/2_f_drawn.flac",
+  "nl_morning/3_m_whisper.flac",
+  "nl_morning/4_m_low.flac",
+  "nl_morning/5_m_drawn.flac"
+ ],
+ "nl_ney": [
+  "nl_ney/0_dry.flac",
+  "nl_ney/1_wet.mp3"
+ ],
+ "nl_night": [
+  "nl_night/0.flac"
  ],
  "nl_oud": [
-  "nl_oud/0.wav"
+  "nl_oud/0.flac"
+ ],
+ "nl_oud2": [
+  "nl_oud2/0.flac"
+ ],
+ "nl_pad": [
+  "nl_pad/0_voice_fm9.mp3",
+  "nl_pad/1_sung.mp3",
+  "nl_pad/2_wail.mp3"
  ],
  "nl_pre": [
-  "nl_pre/0_morning.wav",
-  "nl_pre/1_matin.wav"
+  "nl_pre/0_morning.flac",
+  "nl_pre/1_matin.flac"
+ ],
+ "nl_rev": [
+  "nl_rev/0.flac",
+  "nl_rev/1.flac"
+ ],
+ "nl_riq": [
+  "nl_riq/0.flac"
  ],
  "nl_riser": [
-  "nl_riser/0.wav"
+  "nl_riser/0.flac"
  ],
  "nl_sand": [
-  "nl_sand/0.wav"
+  "nl_sand/0.flac"
+ ],
+ "nl_subdrop": [
+  "nl_subdrop/0.flac"
  ],
  "nl_sung": [
-  "nl_sung/0_full.wav",
-  "nl_sung/1_full_wet.wav"
+  "nl_sung/0_full.flac",
+  "nl_sung/1_full_wet.mp3"
  ],
  "nl_sungbar": [
-  "nl_sungbar/0.wav",
-  "nl_sungbar/1.wav",
-  "nl_sungbar/2.wav",
-  "nl_sungbar/3.wav",
-  "nl_sungbar/4.wav",
-  "nl_sungbar/5.wav",
-  "nl_sungbar/6.wav"
+  "nl_sungbar/0.flac",
+  "nl_sungbar/1.flac",
+  "nl_sungbar/2.flac",
+  "nl_sungbar/3.flac",
+  "nl_sungbar/4.flac",
+  "nl_sungbar/5.flac",
+  "nl_sungbar/6.flac"
  ],
  "nl_swell": [
-  "nl_swell/0.wav"
+  "nl_swell/0.flac"
  ],
  "nl_tail": [
-  "nl_tail/0_morning_f_drawn_fm.wav",
-  "nl_tail/1_morning_f_whisper_fm.wav",
-  "nl_tail/2_morning_m_drawn_fm.wav",
-  "nl_tail/3_morning_m_whisper_fm.wav",
-  "nl_tail/4_fr_m_matin_fm.wav",
-  "nl_tail/5_fr_f_nuit_fm.wav",
-  "nl_tail/6_fr_f_encore_fm.wav",
-  "nl_tail/7_epic_m_fm.wav"
+  "nl_tail/0_morning_f_drawn_fm.mp3",
+  "nl_tail/1_morning_f_whisper_fm.mp3",
+  "nl_tail/2_morning_m_drawn_fm.mp3",
+  "nl_tail/3_morning_m_whisper_fm.mp3",
+  "nl_tail/4_fr_m_matin_fm.mp3",
+  "nl_tail/5_fr_f_nuit_fm.mp3",
+  "nl_tail/6_fr_f_encore_fm.mp3",
+  "nl_tail/7_epic_m_fm.mp3"
  ],
  "nl_throat": [
-  "nl_throat/0.wav"
+  "nl_throat/0.flac"
+ ],
+ "nl_verse": [
+  "nl_verse/0.flac",
+  "nl_verse/1.flac",
+  "nl_verse/2.flac",
+  "nl_verse/3.flac"
+ ],
+ "nl_versefr": [
+  "nl_versefr/0.flac",
+  "nl_versefr/1.flac",
+  "nl_versefr/2.flac",
+  "nl_versefr/3.flac"
  ],
  "nl_vinyl": [
-  "nl_vinyl/0.wav"
+  "nl_vinyl/0.flac"
  ],
  "nl_wail": [
-  "nl_wail/0_dry.wav",
-  "nl_wail/1_wet.wav"
+  "nl_wail/0_dry.flac",
+  "nl_wail/1_wet.mp3"
+ ],
+ "nl_whoosh": [
+  "nl_whoosh/0.flac"
  ],
  "nl_wind": [
-  "nl_wind/0.wav"
+  "nl_wind/0.flac"
+ ],
+ "nl_zills": [
+  "nl_zills/0.flac"
  ]
 }
