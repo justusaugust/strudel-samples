@@ -659,5 +659,11 @@
  ],
  "vt_blizzard": [
   "vt_blizzard/0.flac"
+ ],
+ "vt_hook": [
+  "vt_hook/0.flac",
+  "vt_hook/1.flac",
+  "vt_hook/2.flac",
+  "vt_hook/3.flac"
  ]
 }
