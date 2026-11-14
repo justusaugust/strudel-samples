@@ -155,6 +155,10 @@
   "nl_moan/2.flac",
   "nl_moan/3.flac"
  ],
+ "nl_moanrev": [
+  "nl_moanrev/0.flac",
+  "nl_moanrev/1.flac"
+ ],
  "nl_moantail": [
   "nl_moantail/0.mp3",
   "nl_moantail/1.mp3",
@@ -285,6 +289,16 @@
  "nl_vinyl": [
   "nl_vinyl/0.flac"
  ],
+ "nl_vox": {
+  "f3": "nl_vox/f3.flac",
+  "ab3": "nl_vox/ab3.flac",
+  "bb3": "nl_vox/bb3.flac",
+  "c4": "nl_vox/c4.flac",
+  "eb4": "nl_vox/eb4.flac",
+  "f4": "nl_vox/f4.flac",
+  "ab4": "nl_vox/ab4.flac",
+  "c5": "nl_vox/c5.flac"
+ },
  "nl_vs": [
   "nl_vs/0.flac",
   "nl_vs/1.flac",
@@ -310,18 +324,7 @@
  "nl_zills": [
   "nl_zills/0.flac"
  ],
- "nl_vox": {
-  "f3": "nl_vox/f3.flac",
-  "ab3": "nl_vox/ab3.flac",
-  "bb3": "nl_vox/bb3.flac",
-  "c4": "nl_vox/c4.flac",
-  "eb4": "nl_vox/eb4.flac",
-  "f4": "nl_vox/f4.flac",
-  "ab4": "nl_vox/ab4.flac",
-  "c5": "nl_vox/c5.flac"
- },
- "nl_moanrev": [
-  "nl_moanrev/0.flac",
-  "nl_moanrev/1.flac"
+ "nl_until": [
+  "nl_until/0.flac"
  ]
 }
